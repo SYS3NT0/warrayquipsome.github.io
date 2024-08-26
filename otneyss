@@ -1,0 +1,4 @@
+/*Dark Mode*/
+@import url("https://warrayquipsome.github.io/Otneyss/dark.mode.css");
+/*Light Mode*/
+@import url("https://warrayquipsome.github.io/Otneyss/light.mode.css");
